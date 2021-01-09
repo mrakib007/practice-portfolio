@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    padding-left: 10px;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .container{
+    background-color: ghostwhite;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+  }
+  .container p{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 15px;
+  }
+  #fix{
+    height:60%;
+    width: 50%;
+    margin-left:25%;
+    padding-top: 20px;
+  }
+.intro{
+  height: 50%;
+  width: 50%;
+  margin: auto;
+  font-size: 20px;
+}
+.skills h2{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+.skills{
+  height: 80%;
+  width: 80%;
+  background-color: ghostwhite;
+  margin: auto;
+  padding-bottom: 50px;
+}
+.skills h2{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+.skill-image{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.html{
+  height: 15%;
+  width: 15%;
+  float: left;
+  padding-left: 5px;
+}
+.html img{
+  height: 200px;
+  width: 170px;
+  padding-left: 20px;
+}
+.footer{
+  background: ghostwhite;
+  height: 50%;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+}
+footer h3{
+  padding:10px;
+}
